@@ -4,6 +4,6 @@ class ex3_2 {
         int sizeOfBucket = 10;
         int numOfBucket = numOfApples / sizeOfBucket + (numOfApples % sizeOfBucket > 0 ? 1 : 0);
 
-        System.out.println("ÇÊ¿äÇÑ ¹Ù±¸´ÏÀÇ ¼ö :" + numOfBucket);
+        System.out.println("í•„ìš”í•œ ë°”êµ¬ë‹ˆì˜ ìˆ˜ :" + numOfBucket);
     }
 }
